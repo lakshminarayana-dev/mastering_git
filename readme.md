@@ -1,3 +1,4 @@
-## Hello, Git!
+## Hello Everyone, welcome to my git learning class
 
-I'm adding this from `feature-branch`
+- Yo, Lakshminarayana here!
+- I'm adding this from `feature-branch`
