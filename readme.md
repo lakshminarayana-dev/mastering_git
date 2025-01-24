@@ -1,4 +1,6 @@
-## Hello Everyone, welcome to my git learning class
+## WELCOME GIT
 
 - Yo, Lakshminarayana here!
 - I'm adding this from `feature-branch`
+This is coming from `dev-lakshminarayana`
+I'm adding this from `feature-branch`
